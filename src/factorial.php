@@ -3,7 +3,7 @@
 
 function factorial($number) {
     if ($number < 0) {
-        throw new InvalidArgumentException("Число не може бути від'ємним");
+        throw new InvalidArgumentException("Число не може бути від'ємним!");
     }
 
     if ($number === 0) {
