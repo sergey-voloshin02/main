@@ -1,0 +1,17 @@
+{
+    "name": "voloshin/factorial",
+    "autoload": {
+        "psr-4": {
+            "Voloshin\\Factorial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey-voloshin02",
+            "email": "sergey.voloshin02@icloud.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}

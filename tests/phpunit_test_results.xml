@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CLI Arguments" tests="4" assertions="4" errors="0" failures="0" skipped="0" time="0.006964">
+    <testsuite name="FactorialTest" file="/Users/voloshin/Documents/мнту/weather/factorial-main/tests/FactorialTest.php" tests="4" assertions="4" errors="0" failures="0" skipped="0" time="0.006964">
+      <testcase name="testFactorialOfZero" file="/Users/voloshin/Documents/мнту/weather/factorial-main/tests/FactorialTest.php" line="9" class="FactorialTest" classname="FactorialTest" assertions="1" time="0.006058"/>
+      <testcase name="testFactorialOfPositiveNumber" file="/Users/voloshin/Documents/мнту/weather/factorial-main/tests/FactorialTest.php" line="13" class="FactorialTest" classname="FactorialTest" assertions="1" time="0.000157"/>
+      <testcase name="testFactorialOfLargeNumber" file="/Users/voloshin/Documents/мнту/weather/factorial-main/tests/FactorialTest.php" line="17" class="FactorialTest" classname="FactorialTest" assertions="1" time="0.000108"/>
+      <testcase name="testFactorialOfNegativeNumber" file="/Users/voloshin/Documents/мнту/weather/factorial-main/tests/FactorialTest.php" line="21" class="FactorialTest" classname="FactorialTest" assertions="1" time="0.000642"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
